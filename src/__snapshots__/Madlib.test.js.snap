@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Madlib Tests snapshot 1`] = `
+<div>
+  <div
+    class="container"
+    data-test-id="madlib"
+    id="madlib"
+  >
+    <h2 />
+    <p
+      class="lead"
+      id="content"
+    />
+    <button
+      class="btn btn-primary mb-3"
+      id="restart"
+    >
+      Restart
+    </button>
+  </div>
+</div>
+`;

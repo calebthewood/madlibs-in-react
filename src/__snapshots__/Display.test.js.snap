@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<div>
+  <div
+    id="madlibDisplay"
+  >
+    <div
+      class="container mb-3"
+    >
+      <h2>
+        Hello Test!
+      </h2>
+      <form>
+        <div>
+          <div>
+            <label
+              class="col-form-label"
+              for="0-noun"
+            >
+              noun
+              :
+            </label>
+            <input
+              aria-label="0-noun"
+              class="form-control"
+              id="0-noun"
+              name="0-noun"
+              placeholder="noun"
+              value=""
+            />
+          </div>
+          <div>
+            <label
+              class="col-form-label"
+              for="1-adverb"
+            >
+              adverb
+              :
+            </label>
+            <input
+              aria-label="1-adverb"
+              class="form-control"
+              id="1-adverb"
+              name="1-adverb"
+              placeholder="adverb"
+              value=""
+            />
+          </div>
+          <div>
+            <label
+              class="col-form-label"
+              for="2-verb"
+            >
+              verb
+              :
+            </label>
+            <input
+              aria-label="2-verb"
+              class="form-control"
+              id="2-verb"
+              name="2-verb"
+              placeholder="verb"
+              value=""
+            />
+          </div>
+        </div>
+        <div
+          class="d-grid gap-2 d-md-flex justify-content-md-end"
+        >
+          <button
+            class="btn btn-primary mb-3"
+            data-test-state="disabled"
+            disabled=""
+            type="submit"
+          >
+            Submit
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+`;
